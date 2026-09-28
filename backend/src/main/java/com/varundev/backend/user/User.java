@@ -45,8 +45,6 @@ public class User {
         updatedAt = Instant.now();
     }
 
-    // Getters and setters
-
     public UUID getId() {
         return id;
     }
